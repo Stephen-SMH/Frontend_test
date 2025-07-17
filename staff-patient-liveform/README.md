@@ -7,7 +7,7 @@ This project demonstrates a real-time form system where:
 ---
 
 ## 🌐 Live Demo
-🔗 https://your-app.vercel.app
+🔗 https://agnos-test-patientform.onrender.com/
 
 ---
 
@@ -64,11 +64,11 @@ Socket.IO API → broadcasts 'patient-editing' event
        ↓
 Staff → listens to 'patient-editing' and updates UI
 
+```
 ✅ How to Run Locally
 ```
-```
-git clone https://github.com/your-username/patient-live-form.git
-cd patient-live-form
+git clone https://github.com/Stephen-SMH/Frontend_test
+cd staff-patient-liveform
 npm install
 npm run dev
 ```
